@@ -1,0 +1,15 @@
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio2_3\bin\Debug\net8.0\Exercicio2_3.exe
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio2_3\bin\Debug\net8.0\Exercicio2_3.deps.json
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio2_3\bin\Debug\net8.0\Exercicio2_3.runtimeconfig.json
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio2_3\bin\Debug\net8.0\Exercicio2_3.dll
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio2_3\bin\Debug\net8.0\Exercicio2_3.pdb
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio2_3\obj\Debug\net8.0\Exercicio2_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio2_3\obj\Debug\net8.0\Exercicio2_3.AssemblyInfoInputs.cache
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio2_3\obj\Debug\net8.0\Exercicio2_3.AssemblyInfo.cs
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio2_3\obj\Debug\net8.0\Exercicio2_3.csproj.CoreCompileInputs.cache
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio2_3\obj\Debug\net8.0\Exercicio2_3.sourcelink.json
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio2_3\obj\Debug\net8.0\Exercicio2_3.dll
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio2_3\obj\Debug\net8.0\refint\Exercicio2_3.dll
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio2_3\obj\Debug\net8.0\Exercicio2_3.pdb
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio2_3\obj\Debug\net8.0\Exercicio2_3.genruntimeconfig.cache
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio2_3\obj\Debug\net8.0\ref\Exercicio2_3.dll

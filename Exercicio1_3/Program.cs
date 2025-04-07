@@ -13,6 +13,7 @@ namespace MyApp
             RegistroOculto registroOculto = new RegistroOculto("Registro Oculto", 2);
             registroOculto.Salvar();
             
+            //Sinceramente, não pude perceber nenhuma diferença nos resultados.
         }
     }
 }
