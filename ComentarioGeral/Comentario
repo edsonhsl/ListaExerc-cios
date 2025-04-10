@@ -1,0 +1,8 @@
+    Foi bem interessante fazer os exercícios. Gostaria de de fato implementar vários métodos, em vez de apenas escreve-los e "fingir"
+que funcionavam, porém não possuo conhecimento suficiente para tal coisa. Mas ainda assim aprendi coisas importantes, pois 
+sempre tentava fazer algo funcionar como no Java "rsrs", mas não dava certo, então me via obrigado a descobrir como fazer tal coisa 
+C#. Tentei ir um pouco além em alguns poucos exercícios, mas em outros sei que deixei a desejar.  
+    Com relação aos conteúdos: polimorfismo e método virtuais, interfaces e implementação. Tive certa facilidade em cm cumprir as
+etapas propostas. Porém com relação ao conteúdo de Recursos Gerenciados e IDisposable, foi "luta rsrs". E ainda continuo de fato sem
+entender como realmente se usa a interface "IDisposable", e seu método "Dispose()". Implementei a interface e seu método de 
+forma "tímida" as minhas classes, porém, ao menos na teoria, pude entender sua função e importância.

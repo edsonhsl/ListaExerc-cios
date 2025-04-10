@@ -1,0 +1,30 @@
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Execicio2\bin\Debug\net8.0\Execicio2.exe
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Execicio2\bin\Debug\net8.0\Execicio2.deps.json
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Execicio2\bin\Debug\net8.0\Execicio2.runtimeconfig.json
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Execicio2\bin\Debug\net8.0\Execicio2.dll
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Execicio2\bin\Debug\net8.0\Execicio2.pdb
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Execicio2\obj\Debug\net8.0\Execicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Execicio2\obj\Debug\net8.0\Execicio2.AssemblyInfoInputs.cache
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Execicio2\obj\Debug\net8.0\Execicio2.AssemblyInfo.cs
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Execicio2\obj\Debug\net8.0\Execicio2.csproj.CoreCompileInputs.cache
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Execicio2\obj\Debug\net8.0\Execicio2.sourcelink.json
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Execicio2\obj\Debug\net8.0\Execicio2.dll
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Execicio2\obj\Debug\net8.0\refint\Execicio2.dll
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Execicio2\obj\Debug\net8.0\Execicio2.pdb
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Execicio2\obj\Debug\net8.0\Execicio2.genruntimeconfig.cache
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Execicio2\obj\Debug\net8.0\ref\Execicio2.dll
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio4_2 (Exercicio2_Refatorado)\bin\Debug\net8.0\Execicio2.exe
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio4_2 (Exercicio2_Refatorado)\bin\Debug\net8.0\Execicio2.deps.json
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio4_2 (Exercicio2_Refatorado)\bin\Debug\net8.0\Execicio2.runtimeconfig.json
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio4_2 (Exercicio2_Refatorado)\bin\Debug\net8.0\Execicio2.dll
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio4_2 (Exercicio2_Refatorado)\bin\Debug\net8.0\Execicio2.pdb
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio4_2 (Exercicio2_Refatorado)\obj\Debug\net8.0\Execicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio4_2 (Exercicio2_Refatorado)\obj\Debug\net8.0\Execicio2.AssemblyInfoInputs.cache
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio4_2 (Exercicio2_Refatorado)\obj\Debug\net8.0\Execicio2.AssemblyInfo.cs
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio4_2 (Exercicio2_Refatorado)\obj\Debug\net8.0\Execicio2.csproj.CoreCompileInputs.cache
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio4_2 (Exercicio2_Refatorado)\obj\Debug\net8.0\Execicio2.sourcelink.json
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio4_2 (Exercicio2_Refatorado)\obj\Debug\net8.0\Execicio2.dll
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio4_2 (Exercicio2_Refatorado)\obj\Debug\net8.0\refint\Execicio2.dll
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio4_2 (Exercicio2_Refatorado)\obj\Debug\net8.0\Execicio2.pdb
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio4_2 (Exercicio2_Refatorado)\obj\Debug\net8.0\Execicio2.genruntimeconfig.cache
+C:\Users\Edson\Documents\UNIP\ListaExercícios1\Exercicio4_2 (Exercicio2_Refatorado)\obj\Debug\net8.0\ref\Execicio2.dll

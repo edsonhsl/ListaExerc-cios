@@ -1,0 +1,8 @@
+O arquivo modificado foi o "Exercicio2". Foram feitas as seguintes modificações:
+1 - método "Salvar()" da interface "IArmazenamento" foi modificado e implementado
+    - o parametro do tipo "byte[] dados" foi modificado pelo parâmetro "string mensagem";
+    - o método foi de fato implementado nas classe "ArmazenamentoLocal", permitindo salvar o arquivo localmente.
+
+2 - A interface "IDisposable" foi implementada nas classes "ArmazenamentoNuvem" e "ArmazenamentoLocal"
+    - o método "Carregar()", herdado da interface "IArmazenamento" teve a implementação do método "Dispose()", permitindo 
+    carregar o arquivo, mas fecha-lo assim que não for mais necessário o seu uso.
